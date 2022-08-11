@@ -1,6 +1,6 @@
 CTL_genes = c('CD8A','CD8B','GZMA','GZMB','PRF1')
 Merck_genes = c('TIGIT', 'CD27','CD8A','PDCD1LG2','LAG3','CD274','CXCR6','CMKLR1','NKG7','CCL5','PSMB10','IDO1','CXCL9','HLA-DQA1','CD276','STAT1','HLA-DRB1','HLA-E')
-Antigen_pre_genes = c('B1M','HLA-A','HLA-B','HLA-C','HLA-E',
+Antigen_pre_genes = c('B2M','HLA-A','HLA-B','HLA-C','HLA-E',
             'HLA-F','HLA-G','HLA-F','HLA-G','HLA-H','TAP2')
 Szabo_Inflammation_genes = c('CD274', 'CD8A', 'LAG3','STAT1')
 LKB1_loss_genes = c('AVPI1', 'BAG1', 'CPS1', 'DUSP4', 'FGA','GLCE', 
